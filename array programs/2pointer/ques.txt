@@ -1,0 +1,1 @@
+dutch national flag algorithm-mainly to sort 0,1,2 also called 3 way partitioning
