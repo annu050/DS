@@ -1,1 +1,5 @@
 dutch national flag algorithm-mainly to sort 0,1,2 also called 3 way partitioning
+75. Sort Colors
+647. Palindromic Substrings //USE OF DP CAN ALSO HAPPEN BUT CAUSE INCREASE IN TIME COMPLEXITY SO USE EXPAND AROUND THE CENTERS APPROACH
+88. Merge Sorted Array
+-->traverse from right use stack 1944. Number of Visible People in a Queue, 739. Daily Temperatures
