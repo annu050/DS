@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+//put 1 element sorted to its correct pos
 void bubble(int arr[],int n){
     int flag=0;
     for(int i=0;i<n-1;i++){
