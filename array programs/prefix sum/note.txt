@@ -2,3 +2,8 @@ if given to find sum or product or anything from one place to another use this.
 try to use 1-based indexing as prefix of 0 will get automatically handled.
 if n<=10^5 and a[i]<=10^9 so sum can go 10^5*10^9 so use long long
 so to make complexity less use of prefix sum
+3026.max good subarray sum
+209	Minimum Size Subarray Sum	46.8%	Medium	
+238	Product of Array Except Self	65.2%	Medium	
+303	Range Sum Query - Immutable	62.5%	Easy	
+304	Range Sum Query 2D - Immutable
