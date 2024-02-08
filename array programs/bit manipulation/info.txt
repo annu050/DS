@@ -1,0 +1,13 @@
+1<<pos imp. to get to the right position after that apply the 'and','or' operator
+n =6=(0110)  //flip bits from the rightmost 1 or set bit will give us n-1
+n-1=5=(0101) 
+
+eg: n=8=1000
+    n-1=7=0111
+
+The Quickest way to swap two numbers:
+Two numbers can be swapped easily using the following bitwise operations:
+
+a ^= b;
+b ^= a; 
+a ^= b;
