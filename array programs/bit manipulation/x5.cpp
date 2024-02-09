@@ -1,7 +1,7 @@
 //wap to find unique no. where all no. are are present thrice
 #include<bits/stdc++.h>
 using namespace std;
-//checking of binary representation of every no. where fill the array for like at 0th position 1 is there for 3 no.s so put 3 in arr[0].
+//checking of binary representation of every no. where fill the array for like at 0th position from end 1 is there for 3 no.s so put 3 in arr[0].
 //modulo 3 of these no. stored in array will be 0 except for that one
 bool getBit(int n,int pos)
 {
