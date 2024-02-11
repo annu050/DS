@@ -23,9 +23,9 @@ void unique2(int arr[],int n){
     int setbit=0;
     int pos=0;
     while(setbit!=1){
-        setbit=sum & 1;
+        setbit=sum & 1;//check from lsb which bit will come 1 and at which position
         pos++;
-        sum=sum>>1;
+        sum=sum>>1;//right shift to treverse each bit
     }
     int newxor=0;
     for(int i=0;i<n;i++){
